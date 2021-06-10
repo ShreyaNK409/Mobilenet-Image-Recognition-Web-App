@@ -1,0 +1,82 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    background-color:black;
+}
+
+.header_div img {
+    width: 100px;
+}
+
+.header_div {
+    color: rosybrown;
+    background: whitesmoke;
+
+}
+
+.main_div {
+
+    background-color: thistle;
+    padding: 10px;
+    margin-top: 25px;
+    border-radius: 30px;
+    border: 3px solid white;
+}
+
+.main_div label {
+    background-color: whitesmoke;
+    padding: 10x;
+    width: 300px;
+    
+    box-shadow: 5px 5px 18px white;
+}
+
+#camera,
+#result {
+    border: 2px solid whitesmoke;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+
+.main_div button {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+
+.footer_div
+{
+margin-left: 300px;
+
+}
+
+.footer_div h4
+{
+ background: whitesmoke;
+ border-radius: 30px;
+    border: 3px solid white;
+    box-shadow: 5px 5px 18px white;
+    padding: 5px;
+}
+
+.button2
+{
+ color: rosybrown;
+ background-color: whitesmoke;
+}
+
+.footer_div img
+{
+    width: 70px;
+}
+
+.copyright_footer
+{
+ background-color:black;
+ color: snow;
+ line-height: 3;
+ text-align: center;
+ width: 100%;
+ bottom: 0;
+}
